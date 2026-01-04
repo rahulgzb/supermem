@@ -72,4 +72,4 @@ License
 - Add a license file if you plan to open source this project.
 
 ---
-Happy building — tell me which next step you'd like me to implement.
+
